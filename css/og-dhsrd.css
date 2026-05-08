@@ -5,6 +5,12 @@
 	font-weight: 100;
 	font-style: normal;
 }
+
+@page {
+  size: letter landscape;   /* 11in × 8.5in */
+  margin: 0.25in;
+}
+
 @font-face {
     font-family: 'Be Vietnam Pro';
     src:url('../fonts/BeVietnamPro-ThinItalic.ttf') format(truetype);
